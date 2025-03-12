@@ -1,0 +1,31 @@
+h1 {
+  color: rgb(15 157 88);
+  font-size: 60px;
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  color: blue;
+  text-align: justify;
+}
+
+img {
+  border-radius: 50px;
+  /* border: 8px solid red; */
+
+  border-width: 8px;
+  border-style: solid;
+  border-color: red;
+}
+
+ul {
+  color: red;
+  font-size: 30px;
+}
+
+ol {
+  color: blue;
+  font-size: 20px;
+  background-color: cyan;
+}
